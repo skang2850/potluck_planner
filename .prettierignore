@@ -1,0 +1,7 @@
+node_modules
+dist
+server/src/generated
+server/.agents/
+server/.claude/
+server/.windsurf/
+**/skills-lock.json
